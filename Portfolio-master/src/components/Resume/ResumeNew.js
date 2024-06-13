@@ -19,8 +19,8 @@ function ResumeNew() {
       </h1>
       <h2></h2>
          <h1>Contact Me</h1>
-         <h2>sarannya dong</h2>
-         <h3>maafkan konsep nya masih abal-abal</h3>
+         <p>sarannya dong</p>
+         <p>maafkan konsep nya masih abal-abal</p>
 
          <li className="social-icons">
               <a
@@ -42,6 +42,7 @@ function ResumeNew() {
               <img src={nglLogo} alt="NGL Logo" style={{ width: 50, height: 50 }} />
             </a>
           </li>
+         <h3>terima kasih sudah melihat sampai akhir</h3>
       </Container>
     </div>
   );

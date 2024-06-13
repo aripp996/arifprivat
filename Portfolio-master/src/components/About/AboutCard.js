@@ -11,7 +11,7 @@ function AboutCard() {
             Haloo, Nama Aku <span className="purple">Arif Rizki Kurniadi </span>
             dengan panggilan <span className="purple"> Arif.</span>
             <br />
-            usia aku 18 tahun baru tamat man. aku suka ayam bakar, suka musik, suka itu aja.
+            usia aku 18 tahun. aku suka ayam bakar, suka musik, suka itu aja.
             intinya aku arif udah terimakasih.
             <br />
             deskripsikan diri aku dongg😔
