@@ -37,7 +37,7 @@ function About() {
           Galeri <strong className="purple">Arif </strong>
         </h1>
         <p style={{ color: "rgb(155 126 172)" }}>
-            segala fotbar yang ada arif nyaa{" "}
+            "jalani hidup dengan suka cita, dan percaya kau akan ada dihaiku selamanya"{" "}
           </p>
         <Techstack />
         <Github />
