@@ -24,7 +24,7 @@ function ResumeNew() {
 
          <li className="social-icons">
               <a
-                href="https://wa.me/yourphonenumber"
+                href="https://wa.me/6282284851811"
                 style={{ color: "white", fontSize:50}}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -34,7 +34,7 @@ function ResumeNew() {
             </li>
             <li className="social-icons">
             <a
-              href="https://ngl.link/yourngllink"
+              href="https://ngl.link/arifrizkik1"
               style={{ display: "inline-block", marginTop: 10 }}
               target="_blank"
               rel="noopener noreferrer"

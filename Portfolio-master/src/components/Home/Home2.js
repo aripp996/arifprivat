@@ -2,11 +2,8 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/lingkaran.png";
 import Tilt from "react-parallax-tilt";
-import {
-  AiFillGithub,
-  AiFillInstagram,
-} from "react-icons/ai";
-import { SiTiktok } from 'react-icons/si'; 
+import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
+import { SiTiktok } from "react-icons/si";
 
 function Home2() {
   return (
@@ -15,25 +12,23 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-               <span className="purple"> Intro </span> dulu ya😁
+              <span className="purple"> Intro </span> dulu ya😁
             </h1>
             <p className="home-about-body">
-              I like programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I like programming and I have at least learnt something, I think…
+              🤷‍♂️
               <br />
-              <br />I'm in love with
+              <br />
+              I'm in love with
               <i>
-                <b className="purple"> myself, music and she. </b>
+                <b className="purple"> myself, music and she = 'orange'. </b>
               </i>
               <br />
               <br />
               My field of Interest's are building new &nbsp;
               <i>
                 <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
+                also in areas related to <b className="purple">Blockchain.</b>
               </i>
               <br />
               <br />
